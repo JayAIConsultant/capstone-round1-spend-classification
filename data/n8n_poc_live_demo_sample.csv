@@ -1,0 +1,21 @@
+transaction_id,date,plant,vendor_name,line_item_description,amount_usd
+TXN-100342,2026-01-25,"Plant D - Ohio, US",Waste Management Ltd,"HVAC maintenance contract, visit 40",3182.87
+TXN-100122,2025-12-18,"Plant D - Ohio, US",Industrial Supply Co,"gasket set - pump housing, unit 336",4048.0
+TXN-100065,2026-06-06,"Plant C - Haiphong, VN",SteelCore Industries,"Zinc alloy ingots, lot 854",32441.3
+TXN-100331,2026-04-18,"Plant B - Queretaro, MX",Local Electrician Services,"landscaping services, contract 292",2442.63
+TXN-100052,2026-04-21,"Plant C - Haiphong, VN",Alloy Dynamics GmbH,"Titanium plate grade 5, batch 272",75436.56
+TXN-100137,2026-04-24,"Plant B - Queretaro, MX",ToolWorks Ltd,"air filter cartridge, qty 651",2406.74
+TXN-100029,2026-07-18,"Plant C - Haiphong, VN",Alloy Dynamics GmbH,"Aluminum billet 7075-T6, 892kg lot",59540.07
+TXN-100167,2025-11-16,"Plant C - Haiphong, VN",ToolWorks Ltd,"drive belt V-type, 664 pack",1545.39
+TXN-100010,2025-12-08,"Plant A - Stuttgart, DE",Alloy Dynamics GmbH,"Bronze bar stock C93200, 592m",69602.31
+TXN-100350,2026-01-02,"Plant D - Ohio, US",AutomationTech GmbH,"industrial robot arm - refurbished, unit 362",76973.89
+TXN-100073,2026-04-15,"Plant D - Ohio, US",Belt & Chain Co,"lubricant - industrial grade, 166L drum",174.02
+TXN-100171,2026-04-10,"Plant C - Haiphong, VN",ToolWorks Ltd,bearing replacement kit - conveyor line 911,3097.4
+TXN-100219,2026-01-19,"Plant A - Stuttgart, DE",CartonWorks,"shrink wrap pallets, 406 units",8005.82
+TXN-100117,2026-04-03,"Plant B - Queretaro, MX",SafetyFirst Equipment,"gasket set - pump housing, unit 874",3645.97
+TXN-100372,2026-05-21,"Plant B - Queretaro, MX",Precision Motion Systems,"linear actuator system, qty 373",7095.51
+TXN-100046,2025-10-26,"Plant B - Queretaro, MX",SteelCore Industries,"Bronze bar stock C93200, 820m",65639.44
+TXN-100294,2026-02-14,"Plant B - Queretaro, MX",Office Essentials Co,"office supplies restock, order 990",2469.2
+TXN-100207,2025-10-22,"Plant D - Ohio, US",Export Crate Co,"shrink wrap pallets, 894 units",1756.78
+TXN-100319,2025-11-12,"Plant C - Haiphong, VN",Janitorial Partners,"landscaping services, contract 680",1185.55
+TXN-100066,2026-06-11,"Plant C - Haiphong, VN",Global Metals Partners,"6mm HRC steel coil - grade S355, lot 684",55214.56
