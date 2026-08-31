@@ -18,6 +18,16 @@ This directly answers Chleo's founding fear: *"what is the AI, and how would I k
 - An accuracy score per example and in aggregate across all 20
 - Any misclassifications, visible with their reasoning — which is itself a good "here's how you'd catch and correct an error" moment, not something to hide
 
+## Actual results (Round 1 evidence)
+
+The evaluation was run live against OpenAI's `gpt-4o-mini`: **85% accuracy (17 of 20 correct)** against known-correct category labels, zero-shot — no fine-tuning, no few-shot examples in the prompt. Screenshots of the full LangSmith results grid and an expanded individual trace are included in `assets/`.
+
+**The 2 misses, and why they're informative rather than embarrassing:**
+- *"gasket set - pump housing, unit 874"* → expected `mro`, predicted `raw_materials`. A genuinely ambiguous case — "pump housing" reads as a material-ish term even though the transaction is really a repair part.
+- *"HVAC maintenance contract, visit 40"* → expected `indirect_facilities`, predicted `mro`. Also reasonable — "maintenance" pattern-matches toward MRO even though HVAC upkeep is a facilities cost in this taxonomy.
+
+Both misses reflect boundary cases in the category definitions themselves, not sloppy model behavior — a legitimate Round 2 improvement path is sharpening the category definitions in the prompt, or adding a few labeled boundary examples.
+
 ## Setup — run this yourself before presenting
 
 **Environment variables required** (set in your terminal or `.env`, loaded via `python-dotenv` if you prefer):

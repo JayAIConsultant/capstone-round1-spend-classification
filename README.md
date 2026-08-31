@@ -39,11 +39,15 @@ Two additional use cases (maverick spend detection, freight cost variance) are p
 ├── cost_estimation/
 │   ├── cost_analysis.md
 │   └── timeline_estimate.md
+├── planning/
+│   ├── user_stories.md                # user stories + objective acceptance criteria
+│   └── sprint_plan.md                 # 5 sprints, explicit scope in/out per sprint
 ├── presentation/
 │   └── presentation_script.md         # full speaker script, slide-by-slide
-│   └── presentation.pdf               # [ADD: your final slide deck]
+│   └── presentation.pptx              # final slide deck
+├── assets/                            # screenshots + screen recording of live n8n and LangSmith runs
 └── feedback/
-    └── round1_decision.md             # [ADD: after presenting to teaching staff]
+    └── round1_decision.md             # KEEP/CHANGE decision + Round 2 focus
 ```
 
 ## Setup
@@ -67,4 +71,4 @@ Two additional use cases (maverick spend detection, freight cost variance) are p
 
 ## Status
 
-Round 1 deliverable, presented to teaching staff. See `feedback/round1_decision.md` for the keep/change decision once available.
+Round 1 complete. Feedback received: concept validated, requested formalization into user stories with acceptance criteria and a sprint-organized delivery plan (see `planning/`). Decision: **KEEP** — see `feedback/round1_decision.md` for full reasoning and Round 2 focus areas.

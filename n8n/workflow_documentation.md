@@ -30,6 +30,12 @@ This is a live, real classification run — not simulated — on `n8n_poc_live_d
 
 **Doesn't prove:** performance at full scale (380+ transactions, ongoing), integration with a real ERP export, or accuracy against a large validation set — that's Round 2 territory (stronger POC + working MVP).
 
+## Live run results (Round 1 evidence)
+
+The workflow was run live end-to-end: all 20 sample transactions processed successfully through classification, confidence-check routing, and both Google Sheets writes. Screenshots of the completed run (canvas with all nodes green, item counts confirmed at 20 throughout) and a full screen recording of the live execution are included in `assets/`.
+
+**One real bug was caught and fixed during this process, worth noting rather than hiding:** the "Parse LLM Response" node was initially set to "Run Once for All Items" instead of "Run Once for Each Item," which silently processed only the first of 20 transactions while still reporting a "success" status. This was caught by comparing item counts across the workflow rather than trusting the green checkmark alone — a good illustration of why confidence in an AI pipeline needs to come from checking the data, not just checking that something ran.
+
 ## How to reproduce / set up
 
 1. Import `workflow.json` into your n8n instance (Workflows → Import from File)
