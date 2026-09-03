@@ -9,7 +9,7 @@ n8n classification workflow + LangSmith scored evaluation, proving the core AI m
 Full detail already in `cost_estimation/timeline_estimate.md`: discovery → pipeline build → dashboard build → live validation against one plant's real spend data → go/no-go decision at week 10. Cost: $37,500–$56,200.
 
 ### Phase 3 — Full Deployment (Months 3–8, ~4–6 months build-out, all plants)
-Migration from MVP (Streamlit, single-tenant, no auth) to production architecture: proper database, enterprise SSO, ERP integration across all plants, client-owned cloud infrastructure. Cost: $530,000–$870,000 upfront, $135,000–$200,000/year ongoing (see `roi_risk_assessment.md`).
+Migration from MVP (Streamlit, single-tenant, no auth) to production architecture: proper database, enterprise SSO, ERP integration across all plants, client-owned cloud infrastructure. **Includes migrating from public API endpoints (OpenAI, Pinecone) to Azure OpenAI Service deployed in the client's own Azure tenant, plus a local vector store replacing the hosted Pinecone service** — see `compliance/cybersecurity_data_residency.md` for the full rationale; this is a stated prerequisite for full deployment, not an optional add-on. Cost: $530,000–$870,000 upfront, $135,000–$200,000/year ongoing (see `roi_risk_assessment.md`).
 
 ### Phase 4 — Scale (Month 9+)
 Two distinct meanings worth separating, since they have different KPIs and different owners:
