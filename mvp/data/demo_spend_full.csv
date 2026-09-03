@@ -1,0 +1,381 @@
+transaction_id,date,plant,vendor_name,line_item_description,amount_usd
+TXN-100267,2025-11-06,"Plant A - Stuttgart, DE",RegionalTruck Co,"customs clearance fee, shipment 832",26759.28
+TXN-100262,2026-06-10,"Plant B - Queretaro, MX",AirCargo Express,"freight forwarding fee, shipment 899",37631.0
+TXN-100266,2026-04-10,"Plant A - Stuttgart, DE",TransGlobal Freight,"ocean freight - container FCL, lot 96",28382.52
+TXN-100040,2025-10-05,"Plant A - Stuttgart, DE",SteelCore Industries,"6mm HRC steel coil - grade S355, lot 235",46293.27
+TXN-100034,2026-08-04,"Plant D - Ohio, US",Meridian Raw Materials,Cast iron ingots - batch 132,90553.04
+TXN-100364,2026-04-14,"Plant D - Ohio, US",AutomationTech GmbH,"linear actuator system, qty 762",67745.93
+TXN-100056,2026-05-19,"Plant A - Stuttgart, DE",Alloy Dynamics GmbH,Cast iron ingots - batch 59,88203.06
+TXN-100263,2026-02-21,"Plant D - Ohio, US",OceanLink Shipping,inbound trucking - interplant transfer 424,6097.12
+TXN-100312,2025-10-02,"Plant D - Ohio, US",IT Peripherals Supply,"landscaping services, contract 155",694.28
+TXN-100169,2025-11-03,"Plant D - Ohio, US",Grainger-type Supply,"lubricant - industrial grade, 450L drum",327.37
+TXN-100235,2025-10-03,"Plant D - Ohio, US",CustomsBroker Partners,inbound trucking - interplant transfer 664,8143.51
+TXN-100286,2025-09-29,"Plant A - Stuttgart, DE",Office Essentials Co,"security system monitoring, period 614",426.44
+TXN-100142,2026-01-11,"Plant C - Haiphong, VN",ToolWorks Ltd,"air filter cartridge, qty 817",1245.25
+TXN-100251,2026-02-13,"Plant A - Stuttgart, DE",TransGlobal Freight,inbound trucking - interplant transfer 603,11824.05
+TXN-100117,2026-04-03,"Plant B - Queretaro, MX",SafetyFirst Equipment,"gasket set - pump housing, unit 874",3645.97
+TXN-100359,2026-01-29,"Plant B - Queretaro, MX",Precision Motion Systems,"linear actuator system, qty 38",113126.48
+TXN-100243,2026-03-08,"Plant C - Haiphong, VN",AirCargo Express,"ocean freight - container FCL, lot 703",34841.47
+TXN-100057,2025-10-05,"Plant B - Queretaro, MX",Pan-Asia Metals Co,"Aluminum billet 7075-T6, 610kg lot",15698.85
+TXN-100233,2026-08-12,"Plant B - Queretaro, MX",AirCargo Express,"customs clearance fee, shipment 111",22303.13
+TXN-100091,2026-08-07,"Plant C - Haiphong, VN",HydroTech Parts,"hydraulic hose assembly repair, qty 972",670.23
+TXN-100016,2026-07-25,"Plant B - Queretaro, MX",Alloy Dynamics GmbH,"Stainless steel sheet 304, 948 units",23956.19
+TXN-100247,2026-06-28,"Plant B - Queretaro, MX",TransGlobal Freight,"warehousing & handling, invoice 213",16785.63
+TXN-100375,2026-07-07,"Plant B - Queretaro, MX",AutomationTech GmbH,"industrial robot arm - refurbished, unit 34",13186.69
+TXN-100001,2026-01-19,"Plant B - Queretaro, MX",Global Metals Partners,"6mm HRC steel coil - grade S355, lot 760",40584.99
+TXN-100079,2025-11-23,"Plant B - Queretaro, MX",Local Hardware Depot,"drive belt V-type, 886 pack",1709.33
+TXN-100259,2026-07-22,"Plant C - Haiphong, VN",TransGlobal Freight,"customs clearance fee, shipment 640",22049.27
+TXN-100026,2026-06-02,"Plant C - Haiphong, VN",Global Metals Partners,"Aluminum billet 7075-T6, 699kg lot",76310.31
+TXN-100047,2026-04-05,"Plant B - Queretaro, MX",SteelCore Industries,"Zinc alloy ingots, lot 144",35118.86
+TXN-100010,2025-12-08,"Plant A - Stuttgart, DE",Alloy Dynamics GmbH,"Bronze bar stock C93200, 592m",69602.31
+TXN-100077,2026-01-06,"Plant A - Stuttgart, DE",Gasket & Seal Supply,"drive belt V-type, 699 pack",3505.03
+TXN-100319,2025-11-12,"Plant C - Haiphong, VN",Janitorial Partners,"landscaping services, contract 680",1185.55
+TXN-100281,2026-07-14,"Plant A - Stuttgart, DE",Print & Signage Co,"HVAC maintenance contract, visit 162",5807.03
+TXN-100043,2026-03-28,"Plant B - Queretaro, MX",SteelCore Industries,"Zinc alloy ingots, lot 827",10991.8
+TXN-100209,2026-03-03,"Plant C - Haiphong, VN",PalletPro Solutions,corrugated shipping cartons - 301x18x12in,657.7
+TXN-100195,2026-04-22,"Plant C - Haiphong, VN",PalletPro Solutions,"strapping bands - PET, 387kg spool",4464.94
+TXN-100149,2025-11-01,"Plant B - Queretaro, MX",SafetyFirst Equipment,"lubricant - industrial grade, 237L drum",373.93
+TXN-100102,2026-08-23,"Plant D - Ohio, US",HydroTech Parts,"drive belt V-type, 736 pack",2918.39
+TXN-100158,2026-06-13,"Plant D - Ohio, US",Industrial Supply Co,"drive belt V-type, 122 pack",3463.05
+TXN-100109,2026-07-24,"Plant C - Haiphong, VN",ToolWorks Ltd,"drive belt V-type, 861 pack",1145.27
+TXN-100377,2026-03-23,"Plant C - Haiphong, VN",AutomationTech GmbH,"industrial robot arm - refurbished, unit 376",102160.66
+TXN-100127,2025-11-18,"Plant B - Queretaro, MX",Bearings Direct,bearing replacement kit - conveyor line 637,3708.36
+TXN-100322,2026-02-16,"Plant B - Queretaro, MX",Landscaping Solutions,"IT peripherals - keyboards/monitors, order 811",4701.95
+TXN-100023,2026-07-19,"Plant B - Queretaro, MX",Nordic Steel Supply,"Aluminum billet 7075-T6, 157kg lot",33416.58
+TXN-100032,2026-02-05,"Plant B - Queretaro, MX",SteelCore Industries,"Bronze bar stock C93200, 900m",22835.6
+TXN-100239,2026-06-04,"Plant D - Ohio, US",TransGlobal Freight,"freight forwarding fee, shipment 714",24847.02
+TXN-100369,2026-04-07,"Plant B - Queretaro, MX",Precision Motion Systems,"industrial robot arm - refurbished, unit 735",27515.98
+TXN-100343,2026-08-28,"Plant D - Ohio, US",IT Peripherals Supply,"HVAC maintenance contract, visit 778",1291.17
+TXN-100031,2026-02-13,"Plant D - Ohio, US",Alloy Dynamics GmbH,"6mm HRC steel coil - grade S355, lot 614",60856.4
+TXN-100058,2026-07-02,"Plant A - Stuttgart, DE",Alloy Dynamics GmbH,"Copper wire rod 8mm, spool 593",25050.51
+TXN-100293,2026-04-02,"Plant C - Haiphong, VN",Landscaping Solutions,"IT peripherals - keyboards/monitors, order 656",5382.38
+TXN-100085,2026-07-26,"Plant D - Ohio, US",Gasket & Seal Supply,"lubricant - industrial grade, 360L drum",1502.77
+TXN-100308,2026-03-08,"Plant C - Haiphong, VN",Security Systems Inc,"office supplies restock, order 59",2234.63
+TXN-100326,2025-12-25,"Plant B - Queretaro, MX",Local Electrician Services,"security system monitoring, period 197",4848.75
+TXN-100368,2026-08-05,"Plant C - Haiphong, VN",AutomationTech GmbH,"CNC spindle unit - replacement, unit 336",109115.32
+TXN-100313,2025-10-14,"Plant B - Queretaro, MX",Office Essentials Co,"janitorial services - monthly, invoice 732",359.71
+TXN-100006,2025-11-19,"Plant B - Queretaro, MX",Global Metals Partners,"Bronze bar stock C93200, 285m",21571.52
+TXN-100174,2026-01-21,"Plant B - Queretaro, MX",ToolWorks Ltd,"fastener assortment kit, box 939",1135.26
+TXN-100046,2025-10-26,"Plant B - Queretaro, MX",SteelCore Industries,"Bronze bar stock C93200, 820m",65639.44
+TXN-100245,2026-07-25,"Plant A - Stuttgart, DE",TransGlobal Freight,inbound trucking - interplant transfer 658,1473.44
+TXN-100119,2025-11-24,"Plant D - Ohio, US",HydroTech Parts,"gasket set - pump housing, unit 742",4032.63
+TXN-100074,2026-08-20,"Plant B - Queretaro, MX",Grainger-type Supply,"hydraulic hose assembly repair, qty 78",3697.26
+TXN-100228,2025-10-29,"Plant D - Ohio, US",RegionalTruck Co,"customs clearance fee, shipment 824",15483.93
+TXN-100111,2026-01-18,"Plant C - Haiphong, VN",ToolWorks Ltd,"lubricant - industrial grade, 241L drum",1410.42
+TXN-100105,2026-06-13,"Plant B - Queretaro, MX",FastFix MRO,"fastener assortment kit, box 52",4097.91
+TXN-100351,2026-03-04,"Plant A - Stuttgart, DE",Precision Motion Systems,"CNC spindle unit - replacement, unit 537",62860.67
+TXN-100073,2026-04-15,"Plant D - Ohio, US",Belt & Chain Co,"lubricant - industrial grade, 166L drum",174.02
+TXN-100211,2026-03-15,"Plant B - Queretaro, MX",CartonWorks,corrugated shipping cartons - 625x18x12in,6855.57
+TXN-100004,2025-12-11,"Plant D - Ohio, US",SteelCore Industries,"6mm HRC steel coil - grade S355, lot 575",60083.29
+TXN-100019,2026-07-27,"Plant D - Ohio, US",SteelCore Industries,"Zinc alloy ingots, lot 406",45579.22
+TXN-100318,2026-08-03,"Plant B - Queretaro, MX",Janitorial Partners,"IT peripherals - keyboards/monitors, order 873",1291.75
+TXN-100240,2026-04-01,"Plant A - Stuttgart, DE",OceanLink Shipping,"freight forwarding fee, shipment 159",7470.81
+TXN-100317,2026-08-14,"Plant D - Ohio, US",Office Essentials Co,"office supplies restock, order 572",2776.4
+TXN-100064,2026-01-04,"Plant C - Haiphong, VN",Continental Alloys,"Aluminum billet 7075-T6, 901kg lot",39037.54
+TXN-100230,2025-10-17,"Plant D - Ohio, US",LastMile Logistics,"warehousing & handling, invoice 375",24315.24
+TXN-100083,2026-02-04,"Plant B - Queretaro, MX",Bearings Direct,"fastener assortment kit, box 359",1589.41
+TXN-100095,2026-06-19,"Plant C - Haiphong, VN",Belt & Chain Co,"safety gloves - nitrile, case of 631",3503.71
+TXN-100078,2026-07-15,"Plant B - Queretaro, MX",HydroTech Parts,"gasket set - pump housing, unit 998",472.09
+TXN-100221,2025-12-27,"Plant C - Haiphong, VN",Export Crate Co,"wooden export crates, qty 795",8096.79
+TXN-100298,2026-05-20,"Plant A - Stuttgart, DE",HVAC Services Group,"HVAC maintenance contract, visit 79",1559.67
+TXN-100114,2026-04-27,"Plant D - Ohio, US",HydroTech Parts,"air filter cartridge, qty 556",3665.32
+TXN-100204,2026-05-08,"Plant A - Stuttgart, DE",FoamPack Industries,"shrink wrap pallets, 736 units",10843.52
+TXN-100115,2026-06-27,"Plant A - Stuttgart, DE",Industrial Supply Co,"gasket set - pump housing, unit 399",2905.31
+TXN-100226,2026-03-07,"Plant C - Haiphong, VN",TransGlobal Freight,"warehousing & handling, invoice 898",9952.02
+TXN-100355,2026-08-03,"Plant A - Stuttgart, DE",ControlLogic Systems,"PLC controller upgrade kit, batch 247",13115.41
+TXN-100300,2025-11-15,"Plant B - Queretaro, MX",Catering Services Co,"IT peripherals - keyboards/monitors, order 835",737.69
+TXN-100076,2026-03-06,"Plant A - Stuttgart, DE",ToolWorks Ltd,bearing replacement kit - conveyor line 316,3321.18
+TXN-100094,2026-08-07,"Plant D - Ohio, US",Precision Fasteners Inc,"drive belt V-type, 431 pack",2591.56
+TXN-100246,2025-11-04,"Plant B - Queretaro, MX",TransGlobal Freight,"customs clearance fee, shipment 250",35340.62
+TXN-100017,2025-09-17,"Plant C - Haiphong, VN",Global Metals Partners,"6mm HRC steel coil - grade S355, lot 235",34469.08
+TXN-100067,2025-11-08,"Plant C - Haiphong, VN",Continental Alloys,"Aluminum billet 7075-T6, 962kg lot",20260.41
+TXN-100140,2026-04-26,"Plant D - Ohio, US",SafetyFirst Equipment,"fastener assortment kit, box 250",4377.25
+TXN-100008,2026-01-14,"Plant A - Stuttgart, DE",SteelCore Industries,"Bronze bar stock C93200, 619m",83357.32
+TXN-100176,2026-02-12,"Plant A - Stuttgart, DE",ToolWorks Ltd,"gasket set - pump housing, unit 342",908.49
+TXN-100232,2026-06-27,"Plant D - Ohio, US",RegionalTruck Co,"freight forwarding fee, shipment 269",19547.84
+TXN-100337,2026-04-19,"Plant B - Queretaro, MX",Janitorial Partners,"HVAC maintenance contract, visit 280",5589.4
+TXN-100370,2025-09-22,"Plant C - Haiphong, VN",RoboCell Integrators,"PLC controller upgrade kit, batch 458",12976.55
+TXN-100110,2026-01-01,"Plant C - Haiphong, VN",Filtration Direct,"fastener assortment kit, box 642",484.86
+TXN-100353,2026-07-23,"Plant D - Ohio, US",AutomationTech GmbH,"linear actuator system, qty 45",80749.77
+TXN-100372,2026-05-21,"Plant B - Queretaro, MX",Precision Motion Systems,"linear actuator system, qty 373",7095.51
+TXN-100283,2026-01-18,"Plant B - Queretaro, MX",Security Systems Inc,"security system monitoring, period 425",2566.17
+TXN-100061,2026-07-28,"Plant C - Haiphong, VN",SteelCore Industries,Cast iron ingots - batch 688,41814.92
+TXN-100250,2025-09-14,"Plant B - Queretaro, MX",AirCargo Express,"ocean freight - container FCL, lot 677",32546.65
+TXN-100363,2025-11-03,"Plant C - Haiphong, VN",ControlLogic Systems,"PLC controller upgrade kit, batch 280",57699.08
+TXN-100159,2026-05-26,"Plant D - Ohio, US",Grainger-type Supply,"drive belt V-type, 795 pack",1183.72
+TXN-100248,2025-11-15,"Plant A - Stuttgart, DE",AirCargo Express,inbound trucking - interplant transfer 337,36762.89
+TXN-100146,2026-01-03,"Plant C - Haiphong, VN",SafetyFirst Equipment,"gasket set - pump housing, unit 709",310.46
+TXN-100018,2026-06-18,"Plant C - Haiphong, VN",Alloy Dynamics GmbH,"Aluminum billet 7075-T6, 217kg lot",53653.81
+TXN-100295,2026-08-20,"Plant C - Haiphong, VN",Waste Management Ltd,"landscaping services, contract 472",1000.48
+TXN-100025,2026-01-07,"Plant A - Stuttgart, DE",Alloy Dynamics GmbH,"Zinc alloy ingots, lot 542",47678.09
+TXN-100138,2026-06-03,"Plant D - Ohio, US",ToolWorks Ltd,"lubricant - industrial grade, 631L drum",3208.13
+TXN-100333,2026-04-25,"Plant C - Haiphong, VN",Janitorial Partners,"landscaping services, contract 452",290.68
+TXN-100352,2026-05-18,"Plant A - Stuttgart, DE",ServoDrive Solutions,"industrial robot arm - refurbished, unit 520",103496.33
+TXN-100311,2025-12-06,"Plant C - Haiphong, VN",Print & Signage Co,"landscaping services, contract 668",2965.52
+TXN-100168,2025-11-24,"Plant C - Haiphong, VN",ElectroParts MRO,"hydraulic hose assembly repair, qty 62",961.36
+TXN-100335,2026-01-07,"Plant A - Stuttgart, DE",Waste Management Ltd,"landscaping services, contract 142",489.82
+TXN-100342,2026-01-25,"Plant D - Ohio, US",Waste Management Ltd,"HVAC maintenance contract, visit 40",3182.87
+TXN-100376,2026-04-16,"Plant A - Stuttgart, DE",RoboCell Integrators,"PLC controller upgrade kit, batch 381",41682.2
+TXN-100290,2026-03-01,"Plant A - Stuttgart, DE",Landscaping Solutions,"IT peripherals - keyboards/monitors, order 826",3922.25
+TXN-100224,2026-03-06,"Plant B - Queretaro, MX",Export Crate Co,corrugated shipping cartons - 594x18x12in,4791.96
+TXN-100164,2025-09-17,"Plant B - Queretaro, MX",ToolWorks Ltd,"fastener assortment kit, box 299",2480.62
+TXN-100125,2026-07-30,"Plant A - Stuttgart, DE",Conveyor Components Co,"air filter cartridge, qty 230",1141.52
+TXN-100278,2025-09-16,"Plant A - Stuttgart, DE",TransGlobal Freight,"freight forwarding fee, shipment 649",25013.66
+TXN-100120,2026-03-21,"Plant A - Stuttgart, DE",Local Hardware Depot,bearing replacement kit - conveyor line 929,2496.14
+TXN-100197,2026-02-10,"Plant D - Ohio, US",CartonWorks,"foam insert packaging, batch 45",8875.89
+TXN-100166,2026-07-18,"Plant B - Queretaro, MX",Belt & Chain Co,"lubricant - industrial grade, 807L drum",3783.57
+TXN-100020,2026-06-15,"Plant C - Haiphong, VN",SteelCore Industries,Cast iron ingots - batch 253,33336.94
+TXN-100156,2025-10-04,"Plant D - Ohio, US",Bearings Direct,"fastener assortment kit, box 117",1202.94
+TXN-100080,2026-02-18,"Plant D - Ohio, US",Gasket & Seal Supply,bearing replacement kit - conveyor line 184,654.03
+TXN-100133,2026-08-17,"Plant A - Stuttgart, DE",FastFix MRO,"lubricant - industrial grade, 871L drum",671.41
+TXN-100141,2026-02-14,"Plant B - Queretaro, MX",SafetyFirst Equipment,"fastener assortment kit, box 872",4336.65
+TXN-100292,2026-02-08,"Plant D - Ohio, US",Security Systems Inc,"office supplies restock, order 883",435.29
+TXN-100037,2026-05-23,"Plant D - Ohio, US",Meridian Raw Materials,"Bronze bar stock C93200, 449m",34501.4
+TXN-100358,2025-12-03,"Plant B - Queretaro, MX",ServoDrive Solutions,"linear actuator system, qty 647",72364.19
+TXN-100357,2026-08-17,"Plant D - Ohio, US",AutomationTech GmbH,servo motor assembly - robotic cell 851,8048.8
+TXN-100182,2026-05-14,"Plant D - Ohio, US",CartonWorks,"wooden export crates, qty 638",1893.6
+TXN-100183,2026-06-09,"Plant B - Queretaro, MX",Export Crate Co,"pallet wrap film 20mic, 274 rolls",11141.51
+TXN-100060,2026-02-08,"Plant B - Queretaro, MX",Continental Alloys,"Copper wire rod 8mm, spool 686",36303.74
+TXN-100112,2025-11-17,"Plant B - Queretaro, MX",SafetyFirst Equipment,"hydraulic hose assembly repair, qty 142",851.31
+TXN-100153,2026-01-28,"Plant B - Queretaro, MX",SafetyFirst Equipment,bearing replacement kit - conveyor line 567,780.29
+TXN-100007,2025-10-18,"Plant D - Ohio, US",Continental Alloys,"Bronze bar stock C93200, 105m",13053.27
+TXN-100334,2026-04-03,"Plant B - Queretaro, MX",Catering Services Co,"landscaping services, contract 541",931.26
+TXN-100285,2026-05-08,"Plant C - Haiphong, VN",Janitorial Partners,"IT peripherals - keyboards/monitors, order 608",3843.16
+TXN-100011,2026-01-27,"Plant A - Stuttgart, DE",SteelCore Industries,"Copper wire rod 8mm, spool 792",9790.85
+TXN-100178,2026-06-09,"Plant A - Stuttgart, DE",SafetyFirst Equipment,"gasket set - pump housing, unit 834",1832.3
+TXN-100104,2026-04-06,"Plant B - Queretaro, MX",Gasket & Seal Supply,"hydraulic hose assembly repair, qty 798",2362.28
+TXN-100082,2026-04-29,"Plant B - Queretaro, MX",HydroTech Parts,bearing replacement kit - conveyor line 880,2861.35
+TXN-100332,2026-04-29,"Plant B - Queretaro, MX",Landscaping Solutions,"janitorial services - monthly, invoice 989",4974.43
+TXN-100223,2025-09-21,"Plant C - Haiphong, VN",WrapTech Films,"shrink wrap pallets, 662 units",1667.89
+TXN-100193,2026-08-04,"Plant D - Ohio, US",Export Crate Co,"strapping bands - PET, 594kg spool",10864.77
+TXN-100210,2026-03-30,"Plant B - Queretaro, MX",PalletPro Solutions,"pallet wrap film 20mic, 544 rolls",2433.21
+TXN-100303,2026-06-24,"Plant D - Ohio, US",Security Systems Inc,"landscaping services, contract 779",3606.0
+TXN-100154,2025-09-07,"Plant C - Haiphong, VN",Belt & Chain Co,"fastener assortment kit, box 106",2279.12
+TXN-100090,2026-05-25,"Plant B - Queretaro, MX",Bearings Direct,"gasket set - pump housing, unit 2",2204.13
+TXN-100177,2026-08-22,"Plant D - Ohio, US",ElectroParts MRO,"air filter cartridge, qty 422",3155.58
+TXN-100148,2026-08-26,"Plant D - Ohio, US",ToolWorks Ltd,"air filter cartridge, qty 361",2336.65
+TXN-100212,2025-12-28,"Plant D - Ohio, US",PalletPro Solutions,"strapping bands - PET, 147kg spool",8487.61
+TXN-100093,2026-08-23,"Plant C - Haiphong, VN",Belt & Chain Co,"air filter cartridge, qty 413",3459.41
+TXN-100070,2026-05-09,"Plant C - Haiphong, VN",Global Metals Partners,"Stainless steel sheet 304, 518 units",93859.16
+TXN-100124,2026-06-04,"Plant A - Stuttgart, DE",ElectroParts MRO,"fastener assortment kit, box 20",628.73
+TXN-100097,2026-04-15,"Plant D - Ohio, US",ToolWorks Ltd,"air filter cartridge, qty 477",2423.89
+TXN-100144,2026-06-12,"Plant B - Queretaro, MX",Industrial Supply Co,"gasket set - pump housing, unit 501",1458.82
+TXN-100288,2026-05-13,"Plant D - Ohio, US",Janitorial Partners,"office supplies restock, order 8",3618.66
+TXN-100098,2025-11-26,"Plant A - Stuttgart, DE",Belt & Chain Co,"fastener assortment kit, box 813",2009.8
+TXN-100272,2026-06-12,"Plant C - Haiphong, VN",TransGlobal Freight,"ocean freight - container FCL, lot 359",30955.21
+TXN-100069,2026-02-23,"Plant B - Queretaro, MX",SteelCore Industries,"Copper wire rod 8mm, spool 735",14485.91
+TXN-100024,2025-10-03,"Plant D - Ohio, US",Nordic Steel Supply,"Titanium plate grade 5, batch 611",39873.48
+TXN-100038,2026-02-21,"Plant A - Stuttgart, DE",SteelCore Industries,"Copper wire rod 8mm, spool 66",16497.47
+TXN-100145,2025-09-09,"Plant A - Stuttgart, DE",Lubricant Solutions,"fastener assortment kit, box 459",1389.06
+TXN-100123,2026-04-04,"Plant C - Haiphong, VN",SafetyFirst Equipment,"gasket set - pump housing, unit 285",1533.32
+TXN-100068,2026-06-11,"Plant B - Queretaro, MX",SteelCore Industries,"Aluminum billet 7075-T6, 761kg lot",77791.14
+TXN-100173,2025-09-21,"Plant B - Queretaro, MX",Conveyor Components Co,"lubricant - industrial grade, 591L drum",2377.6
+TXN-100199,2026-05-16,"Plant C - Haiphong, VN",PalletPro Solutions,corrugated shipping cartons - 130x18x12in,10712.79
+TXN-100203,2026-08-12,"Plant D - Ohio, US",WrapTech Films,"wooden export crates, qty 873",2442.57
+TXN-100301,2025-11-28,"Plant B - Queretaro, MX",Office Essentials Co,"janitorial services - monthly, invoice 203",525.59
+TXN-100181,2026-03-31,"Plant A - Stuttgart, DE",WrapTech Films,"strapping bands - PET, 474kg spool",4488.16
+TXN-100126,2025-09-16,"Plant B - Queretaro, MX",Filtration Direct,bearing replacement kit - conveyor line 773,2007.92
+TXN-100147,2026-06-11,"Plant C - Haiphong, VN",Belt & Chain Co,"air filter cartridge, qty 485",2801.6
+TXN-100219,2026-01-19,"Plant A - Stuttgart, DE",CartonWorks,"shrink wrap pallets, 406 units",8005.82
+TXN-100087,2026-06-25,"Plant C - Haiphong, VN",Gasket & Seal Supply,"lubricant - industrial grade, 183L drum",3323.79
+TXN-100341,2025-10-21,"Plant C - Haiphong, VN",HVAC Services Group,"janitorial services - monthly, invoice 954",3297.18
+TXN-100275,2026-08-22,"Plant C - Haiphong, VN",RegionalTruck Co,"freight forwarding fee, shipment 850",19870.8
+TXN-100321,2025-10-14,"Plant C - Haiphong, VN",Office Essentials Co,"IT peripherals - keyboards/monitors, order 961",3660.13
+TXN-100194,2026-05-06,"Plant C - Haiphong, VN",Export Crate Co,"foam insert packaging, batch 552",7817.36
+TXN-100287,2025-11-10,"Plant C - Haiphong, VN",HVAC Services Group,"HVAC maintenance contract, visit 786",3133.27
+TXN-100184,2026-08-24,"Plant D - Ohio, US",FoamPack Industries,"foam insert packaging, batch 902",10601.67
+TXN-100297,2026-02-06,"Plant C - Haiphong, VN",Landscaping Solutions,"security system monitoring, period 892",5050.96
+TXN-100269,2026-04-05,"Plant A - Stuttgart, DE",OceanLink Shipping,"freight forwarding fee, shipment 964",14237.12
+TXN-100196,2026-06-20,"Plant D - Ohio, US",Export Crate Co,"shrink wrap pallets, 245 units",4580.99
+TXN-100279,2026-04-03,"Plant D - Ohio, US",RegionalTruck Co,inbound trucking - interplant transfer 386,26942.97
+TXN-100130,2026-02-07,"Plant A - Stuttgart, DE",Filtration Direct,"safety gloves - nitrile, case of 988",2371.75
+TXN-100039,2025-12-22,"Plant A - Stuttgart, DE",Global Metals Partners,"Copper wire rod 8mm, spool 603",67528.27
+TXN-100012,2026-01-21,"Plant D - Ohio, US",Pan-Asia Metals Co,"Aluminum billet 7075-T6, 390kg lot",92382.16
+TXN-100256,2026-05-04,"Plant D - Ohio, US",RegionalTruck Co,"ocean freight - container FCL, lot 63",21557.33
+TXN-100186,2026-03-28,"Plant A - Stuttgart, DE",PalletPro Solutions,corrugated shipping cartons - 566x18x12in,8123.82
+TXN-100324,2026-03-05,"Plant A - Stuttgart, DE",IT Peripherals Supply,"security system monitoring, period 521",1963.58
+TXN-100113,2025-12-19,"Plant A - Stuttgart, DE",HydroTech Parts,"safety gloves - nitrile, case of 724",4194.18
+TXN-100180,2026-05-22,"Plant A - Stuttgart, DE",Conveyor Components Co,"gasket set - pump housing, unit 886",748.22
+TXN-100254,2026-07-12,"Plant A - Stuttgart, DE",OceanLink Shipping,inbound trucking - interplant transfer 969,12657.81
+TXN-100330,2026-03-06,"Plant B - Queretaro, MX",Catering Services Co,"office supplies restock, order 421",1760.71
+TXN-100118,2026-05-07,"Plant A - Stuttgart, DE",ToolWorks Ltd,"lubricant - industrial grade, 447L drum",961.58
+TXN-100350,2026-01-02,"Plant D - Ohio, US",AutomationTech GmbH,"industrial robot arm - refurbished, unit 362",76973.89
+TXN-100366,2025-10-13,"Plant D - Ohio, US",AutomationTech GmbH,"industrial robot arm - refurbished, unit 274",49401.8
+TXN-100273,2025-12-25,"Plant D - Ohio, US",TransGlobal Freight,"customs clearance fee, shipment 588",33068.38
+TXN-100361,2026-06-06,"Plant D - Ohio, US",ServoDrive Solutions,"industrial robot arm - refurbished, unit 408",49639.54
+TXN-100165,2026-04-21,"Plant A - Stuttgart, DE",SafetyFirst Equipment,"lubricant - industrial grade, 720L drum",542.76
+TXN-100234,2026-06-15,"Plant C - Haiphong, VN",OceanLink Shipping,"warehousing & handling, invoice 906",19172.41
+TXN-100137,2026-04-24,"Plant B - Queretaro, MX",ToolWorks Ltd,"air filter cartridge, qty 651",2406.74
+TXN-100155,2025-12-04,"Plant A - Stuttgart, DE",ToolWorks Ltd,"fastener assortment kit, box 349",4437.58
+TXN-100200,2026-05-28,"Plant D - Ohio, US",Export Crate Co,"foam insert packaging, batch 103",9490.58
+TXN-100198,2026-08-06,"Plant B - Queretaro, MX",WrapTech Films,"foam insert packaging, batch 396",10827.06
+TXN-100373,2026-07-09,"Plant D - Ohio, US",ServoDrive Solutions,servo motor assembly - robotic cell 870,15860.94
+TXN-100003,2025-10-18,"Plant B - Queretaro, MX",Global Metals Partners,"6mm HRC steel coil - grade S355, lot 31",71683.47
+TXN-100205,2026-08-17,"Plant C - Haiphong, VN",WrapTech Films,"pallet wrap film 20mic, 647 rolls",7513.29
+TXN-100116,2025-09-04,"Plant C - Haiphong, VN",ElectroParts MRO,"gasket set - pump housing, unit 489",3940.85
+TXN-100336,2025-10-23,"Plant A - Stuttgart, DE",IT Peripherals Supply,"janitorial services - monthly, invoice 568",456.59
+TXN-100220,2025-09-26,"Plant D - Ohio, US",WrapTech Films,"shrink wrap pallets, 797 units",10281.15
+TXN-100027,2026-01-29,"Plant D - Ohio, US",Nordic Steel Supply,"Bronze bar stock C93200, 115m",25371.62
+TXN-100121,2026-04-25,"Plant B - Queretaro, MX",Industrial Supply Co,"gasket set - pump housing, unit 139",3662.36
+TXN-100291,2026-04-12,"Plant A - Stuttgart, DE",Security Systems Inc,"IT peripherals - keyboards/monitors, order 44",392.15
+TXN-100225,2026-04-01,"Plant B - Queretaro, MX",CartonWorks,"wooden export crates, qty 335",3623.31
+TXN-100299,2026-02-26,"Plant C - Haiphong, VN",Landscaping Solutions,"HVAC maintenance contract, visit 928",4124.21
+TXN-100327,2025-10-22,"Plant A - Stuttgart, DE",HVAC Services Group,"janitorial services - monthly, invoice 865",3692.43
+TXN-100128,2025-12-21,"Plant D - Ohio, US",FastFix MRO,"hydraulic hose assembly repair, qty 578",3894.18
+TXN-100075,2026-06-10,"Plant B - Queretaro, MX",Precision Fasteners Inc,"air filter cartridge, qty 597",3224.83
+TXN-100306,2026-02-03,"Plant C - Haiphong, VN",Office Essentials Co,"security system monitoring, period 647",6347.87
+TXN-100030,2026-03-11,"Plant B - Queretaro, MX",Pan-Asia Metals Co,"Copper wire rod 8mm, spool 157",12041.19
+TXN-100084,2026-02-16,"Plant C - Haiphong, VN",Bearings Direct,"drive belt V-type, 409 pack",426.48
+TXN-100356,2025-09-23,"Plant C - Haiphong, VN",RoboCell Integrators,"PLC controller upgrade kit, batch 137",78878.22
+TXN-100108,2025-11-21,"Plant D - Ohio, US",ElectroParts MRO,"fastener assortment kit, box 919",3436.65
+TXN-100249,2026-06-04,"Plant C - Haiphong, VN",TransGlobal Freight,inbound trucking - interplant transfer 134,36650.3
+TXN-100238,2026-03-18,"Plant D - Ohio, US",TransGlobal Freight,"warehousing & handling, invoice 139",1802.12
+TXN-100134,2026-05-31,"Plant D - Ohio, US",Filtration Direct,bearing replacement kit - conveyor line 356,1618.63
+TXN-100185,2026-01-01,"Plant B - Queretaro, MX",CartonWorks,"shrink wrap pallets, 624 units",3540.53
+TXN-100276,2026-02-06,"Plant C - Haiphong, VN",TransGlobal Freight,"customs clearance fee, shipment 720",19506.25
+TXN-100045,2026-08-01,"Plant A - Stuttgart, DE",Alloy Dynamics GmbH,"6mm HRC steel coil - grade S355, lot 690",30513.86
+TXN-100379,2026-03-18,"Plant A - Stuttgart, DE",RoboCell Integrators,"linear actuator system, qty 531",98663.88
+TXN-100066,2026-06-11,"Plant C - Haiphong, VN",Global Metals Partners,"6mm HRC steel coil - grade S355, lot 684",55214.56
+TXN-100282,2026-08-05,"Plant D - Ohio, US",IT Peripherals Supply,"janitorial services - monthly, invoice 454",2329.37
+TXN-100086,2025-09-15,"Plant A - Stuttgart, DE",Belt & Chain Co,"air filter cartridge, qty 962",1564.55
+TXN-100187,2025-10-31,"Plant B - Queretaro, MX",CartonWorks,corrugated shipping cartons - 473x18x12in,9916.33
+TXN-100071,2026-07-22,"Plant D - Ohio, US",Gasket & Seal Supply,bearing replacement kit - conveyor line 95,3509.26
+TXN-100160,2026-06-29,"Plant D - Ohio, US",ToolWorks Ltd,"fastener assortment kit, box 305",3317.74
+TXN-100013,2026-03-09,"Plant C - Haiphong, VN",Global Metals Partners,"Bronze bar stock C93200, 167m",80422.51
+TXN-100036,2026-02-07,"Plant D - Ohio, US",Meridian Raw Materials,"Copper wire rod 8mm, spool 731",78330.57
+TXN-100029,2026-07-18,"Plant C - Haiphong, VN",Alloy Dynamics GmbH,"Aluminum billet 7075-T6, 892kg lot",59540.07
+TXN-100171,2026-04-10,"Plant C - Haiphong, VN",ToolWorks Ltd,bearing replacement kit - conveyor line 911,3097.4
+TXN-100143,2025-09-06,"Plant B - Queretaro, MX",SafetyFirst Equipment,"lubricant - industrial grade, 570L drum",2313.03
+TXN-100302,2025-11-30,"Plant D - Ohio, US",Catering Services Co,"IT peripherals - keyboards/monitors, order 78",3547.53
+TXN-100362,2026-03-02,"Plant A - Stuttgart, DE",Precision Motion Systems,servo motor assembly - robotic cell 293,78978.15
+TXN-100151,2025-12-09,"Plant C - Haiphong, VN",SafetyFirst Equipment,"lubricant - industrial grade, 103L drum",4100.96
+TXN-100229,2025-12-25,"Plant D - Ohio, US",LastMile Logistics,inbound trucking - interplant transfer 773,33994.93
+TXN-100222,2026-01-07,"Plant B - Queretaro, MX",CartonWorks,"pallet wrap film 20mic, 636 rolls",7078.72
+TXN-100132,2026-07-01,"Plant B - Queretaro, MX",HydroTech Parts,"drive belt V-type, 78 pack",1116.17
+TXN-100096,2026-01-25,"Plant B - Queretaro, MX",HydroTech Parts,bearing replacement kit - conveyor line 312,2298.01
+TXN-100354,2025-09-09,"Plant C - Haiphong, VN",ServoDrive Solutions,"PLC controller upgrade kit, batch 766",23737.46
+TXN-100052,2026-04-21,"Plant C - Haiphong, VN",Alloy Dynamics GmbH,"Titanium plate grade 5, batch 272",75436.56
+TXN-100241,2026-01-22,"Plant A - Stuttgart, DE",AirCargo Express,"warehousing & handling, invoice 418",35791.01
+TXN-100284,2026-04-09,"Plant A - Stuttgart, DE",Catering Services Co,"office supplies restock, order 354",792.09
+TXN-100289,2026-08-27,"Plant B - Queretaro, MX",HVAC Services Group,"security system monitoring, period 546",2005.21
+TXN-100179,2026-02-13,"Plant A - Stuttgart, DE",ToolWorks Ltd,"air filter cartridge, qty 259",4224.78
+TXN-100042,2025-11-07,"Plant D - Ohio, US",Global Metals Partners,"Copper wire rod 8mm, spool 553",51080.39
+TXN-100367,2025-12-02,"Plant C - Haiphong, VN",Precision Motion Systems,"industrial robot arm - refurbished, unit 843",115536.91
+TXN-100207,2025-10-22,"Plant D - Ohio, US",Export Crate Co,"shrink wrap pallets, 894 units",1756.78
+TXN-100255,2026-02-02,"Plant D - Ohio, US",RegionalTruck Co,"freight forwarding fee, shipment 534",7188.18
+TXN-100315,2026-03-29,"Plant C - Haiphong, VN",Janitorial Partners,"janitorial services - monthly, invoice 397",5466.67
+TXN-100005,2025-09-04,"Plant B - Queretaro, MX",SteelCore Industries,"Stainless steel sheet 304, 829 units",21573.62
+TXN-100257,2026-08-31,"Plant D - Ohio, US",OceanLink Shipping,"ocean freight - container FCL, lot 503",35631.34
+TXN-100340,2025-10-12,"Plant C - Haiphong, VN",Landscaping Solutions,"HVAC maintenance contract, visit 396",816.36
+TXN-100101,2025-10-08,"Plant D - Ohio, US",Bearings Direct,"fastener assortment kit, box 626",286.72
+TXN-100227,2026-05-05,"Plant C - Haiphong, VN",AirCargo Express,"customs clearance fee, shipment 936",36998.69
+TXN-100325,2025-12-19,"Plant C - Haiphong, VN",Janitorial Partners,"HVAC maintenance contract, visit 974",6215.65
+TXN-100214,2026-01-26,"Plant B - Queretaro, MX",FoamPack Industries,"foam insert packaging, batch 923",3156.67
+TXN-100172,2025-12-27,"Plant A - Stuttgart, DE",Grainger-type Supply,bearing replacement kit - conveyor line 94,222.16
+TXN-100099,2025-12-30,"Plant C - Haiphong, VN",SafetyFirst Equipment,"air filter cartridge, qty 96",260.57
+TXN-100216,2026-02-02,"Plant B - Queretaro, MX",WrapTech Films,"foam insert packaging, batch 866",3304.64
+TXN-100062,2026-04-23,"Plant A - Stuttgart, DE",Alloy Dynamics GmbH,"Aluminum billet 7075-T6, 10kg lot",31607.37
+TXN-100048,2025-10-09,"Plant D - Ohio, US",SteelCore Industries,"Copper wire rod 8mm, spool 896",53245.92
+TXN-100033,2026-05-07,"Plant A - Stuttgart, DE",SteelCore Industries,"Aluminum billet 7075-T6, 88kg lot",13659.49
+TXN-100268,2026-02-16,"Plant A - Stuttgart, DE",OceanLink Shipping,"warehousing & handling, invoice 576",26962.16
+TXN-100201,2026-08-02,"Plant B - Queretaro, MX",CartonWorks,"pallet wrap film 20mic, 420 rolls",7919.16
+TXN-100338,2025-12-23,"Plant D - Ohio, US",Waste Management Ltd,"office supplies restock, order 970",4633.04
+TXN-100028,2026-01-13,"Plant B - Queretaro, MX",SteelCore Industries,"6mm HRC steel coil - grade S355, lot 977",52738.4
+TXN-100305,2025-11-17,"Plant D - Ohio, US",Waste Management Ltd,"IT peripherals - keyboards/monitors, order 324",4774.38
+TXN-100231,2026-04-21,"Plant C - Haiphong, VN",TransGlobal Freight,"warehousing & handling, invoice 127",30387.5
+TXN-100261,2026-08-26,"Plant A - Stuttgart, DE",OceanLink Shipping,"air freight - expedited, ref 102",23716.77
+TXN-100163,2025-09-02,"Plant D - Ohio, US",Bearings Direct,"hydraulic hose assembly repair, qty 161",2905.85
+TXN-100323,2026-05-28,"Plant A - Stuttgart, DE",IT Peripherals Supply,"IT peripherals - keyboards/monitors, order 702",4359.24
+TXN-100139,2026-01-04,"Plant A - Stuttgart, DE",ToolWorks Ltd,"lubricant - industrial grade, 331L drum",1731.79
+TXN-100063,2026-01-14,"Plant B - Queretaro, MX",SteelCore Industries,"Copper wire rod 8mm, spool 519",80100.16
+TXN-100136,2026-05-09,"Plant A - Stuttgart, DE",Industrial Supply Co,"gasket set - pump housing, unit 843",1555.93
+TXN-100129,2026-07-08,"Plant A - Stuttgart, DE",Lubricant Solutions,"air filter cartridge, qty 172",180.24
+TXN-100009,2026-03-13,"Plant A - Stuttgart, DE",Nordic Steel Supply,"Aluminum billet 7075-T6, 997kg lot",60297.01
+TXN-100065,2026-06-06,"Plant C - Haiphong, VN",SteelCore Industries,"Zinc alloy ingots, lot 854",32441.3
+TXN-100015,2026-01-04,"Plant B - Queretaro, MX",Global Metals Partners,Cast iron ingots - batch 547,23818.77
+TXN-100157,2025-11-16,"Plant C - Haiphong, VN",Precision Fasteners Inc,bearing replacement kit - conveyor line 156,3073.79
+TXN-100041,2025-12-31,"Plant C - Haiphong, VN",Pan-Asia Metals Co,"Aluminum billet 7075-T6, 527kg lot",18617.33
+TXN-100348,2026-06-02,"Plant A - Stuttgart, DE",Precision Motion Systems,"linear actuator system, qty 612",10209.96
+TXN-100339,2025-09-28,"Plant D - Ohio, US",Print & Signage Co,"office supplies restock, order 425",3187.3
+TXN-100217,2025-12-31,"Plant D - Ohio, US",FoamPack Industries,"foam insert packaging, batch 110",4309.56
+TXN-100280,2026-02-14,"Plant A - Stuttgart, DE",TransGlobal Freight,"customs clearance fee, shipment 320",30423.91
+TXN-100328,2026-07-03,"Plant D - Ohio, US",IT Peripherals Supply,"landscaping services, contract 135",4053.84
+TXN-100237,2026-05-11,"Plant A - Stuttgart, DE",TransGlobal Freight,"ocean freight - container FCL, lot 312",11316.65
+TXN-100208,2025-09-15,"Plant A - Stuttgart, DE",CartonWorks,"wooden export crates, qty 926",8163.92
+TXN-100213,2026-08-08,"Plant A - Stuttgart, DE",WrapTech Films,"foam insert packaging, batch 262",8032.36
+TXN-100296,2026-04-12,"Plant D - Ohio, US",Office Essentials Co,"office supplies restock, order 250",3490.13
+TXN-100346,2026-02-02,"Plant A - Stuttgart, DE",Precision Motion Systems,"PLC controller upgrade kit, batch 244",75822.76
+TXN-100252,2026-04-04,"Plant A - Stuttgart, DE",TransGlobal Freight,"ocean freight - container FCL, lot 130",15187.13
+TXN-100371,2026-07-25,"Plant A - Stuttgart, DE",RoboCell Integrators,"linear actuator system, qty 282",16589.47
+TXN-100347,2026-07-16,"Plant D - Ohio, US",Precision Motion Systems,"linear actuator system, qty 655",78035.77
+TXN-100304,2026-07-23,"Plant C - Haiphong, VN",IT Peripherals Supply,"landscaping services, contract 659",4215.81
+TXN-100270,2026-02-28,"Plant A - Stuttgart, DE",LastMile Logistics,"warehousing & handling, invoice 320",11792.26
+TXN-100202,2026-07-17,"Plant D - Ohio, US",CartonWorks,"wooden export crates, qty 347",1559.2
+TXN-100162,2025-10-12,"Plant B - Queretaro, MX",Grainger-type Supply,"lubricant - industrial grade, 677L drum",2900.53
+TXN-100044,2026-04-05,"Plant D - Ohio, US",SteelCore Industries,"Titanium plate grade 5, batch 363",87110.87
+TXN-100218,2026-08-25,"Plant C - Haiphong, VN",WrapTech Films,"strapping bands - PET, 303kg spool",9110.0
+TXN-100191,2026-04-01,"Plant C - Haiphong, VN",Export Crate Co,"wooden export crates, qty 792",1661.37
+TXN-100310,2025-09-22,"Plant D - Ohio, US",Security Systems Inc,"landscaping services, contract 978",1906.24
+TXN-100260,2026-01-29,"Plant D - Ohio, US",TransGlobal Freight,"warehousing & handling, invoice 544",4505.25
+TXN-100106,2025-11-08,"Plant D - Ohio, US",Local Hardware Depot,"hydraulic hose assembly repair, qty 468",1234.42
+TXN-100054,2026-06-05,"Plant A - Stuttgart, DE",SteelCore Industries,"6mm HRC steel coil - grade S355, lot 594",85849.98
+TXN-100002,2026-06-07,"Plant A - Stuttgart, DE",SteelCore Industries,"Aluminum billet 7075-T6, 693kg lot",90712.14
+TXN-100050,2026-03-28,"Plant D - Ohio, US",Meridian Raw Materials,"Copper wire rod 8mm, spool 171",24082.34
+TXN-100081,2025-11-21,"Plant A - Stuttgart, DE",Filtration Direct,"drive belt V-type, 274 pack",3904.5
+TXN-100206,2026-04-11,"Plant A - Stuttgart, DE",FoamPack Industries,"shrink wrap pallets, 93 units",704.85
+TXN-100035,2026-05-29,"Plant D - Ohio, US",Continental Alloys,Cast iron ingots - batch 272,92009.99
+TXN-100264,2026-02-08,"Plant D - Ohio, US",OceanLink Shipping,"freight forwarding fee, shipment 98",20130.03
+TXN-100092,2026-02-01,"Plant C - Haiphong, VN",Grainger-type Supply,"hydraulic hose assembly repair, qty 738",3252.61
+TXN-100053,2025-12-07,"Plant C - Haiphong, VN",Alloy Dynamics GmbH,"Zinc alloy ingots, lot 159",89736.41
+TXN-100265,2025-11-18,"Plant D - Ohio, US",TransGlobal Freight,"customs clearance fee, shipment 384",33450.54
+TXN-100242,2026-04-16,"Plant B - Queretaro, MX",RegionalTruck Co,inbound trucking - interplant transfer 455,36290.75
+TXN-100014,2026-08-16,"Plant A - Stuttgart, DE",SteelCore Industries,"Stainless steel sheet 304, 719 units",26473.5
+TXN-100316,2026-07-21,"Plant C - Haiphong, VN",IT Peripherals Supply,"office supplies restock, order 809",4584.64
+TXN-100089,2026-06-23,"Plant B - Queretaro, MX",Grainger-type Supply,"hydraulic hose assembly repair, qty 395",4009.38
+TXN-100274,2026-08-12,"Plant A - Stuttgart, DE",AirCargo Express,"warehousing & handling, invoice 629",34781.22
+TXN-100167,2025-11-16,"Plant C - Haiphong, VN",ToolWorks Ltd,"drive belt V-type, 664 pack",1545.39
+TXN-100329,2026-08-21,"Plant B - Queretaro, MX",HVAC Services Group,"HVAC maintenance contract, visit 852",2843.48
+TXN-100374,2026-07-28,"Plant C - Haiphong, VN",Precision Motion Systems,"CNC spindle unit - replacement, unit 242",83545.78
+TXN-100135,2026-07-29,"Plant C - Haiphong, VN",Belt & Chain Co,"hydraulic hose assembly repair, qty 519",4251.66
+TXN-100307,2025-10-08,"Plant C - Haiphong, VN",Landscaping Solutions,"janitorial services - monthly, invoice 520",3452.69
+TXN-100365,2026-08-21,"Plant D - Ohio, US",AutomationTech GmbH,servo motor assembly - robotic cell 509,113268.45
+TXN-100320,2026-08-06,"Plant D - Ohio, US",Janitorial Partners,"IT peripherals - keyboards/monitors, order 716",1776.53
+TXN-100244,2025-11-02,"Plant D - Ohio, US",TransGlobal Freight,"customs clearance fee, shipment 195",14632.89
+TXN-100055,2026-06-27,"Plant D - Ohio, US",Nordic Steel Supply,"6mm HRC steel coil - grade S355, lot 52",60017.3
+TXN-100051,2025-10-01,"Plant B - Queretaro, MX",Alloy Dynamics GmbH,"Titanium plate grade 5, batch 925",92353.86
+TXN-100175,2026-05-10,"Plant A - Stuttgart, DE",Conveyor Components Co,"gasket set - pump housing, unit 651",2956.5
+TXN-100190,2026-07-04,"Plant B - Queretaro, MX",WrapTech Films,"foam insert packaging, batch 196",3357.12
+TXN-100378,2025-10-29,"Plant A - Stuttgart, DE",RoboCell Integrators,servo motor assembly - robotic cell 984,7676.27
+TXN-100188,2026-05-19,"Plant C - Haiphong, VN",PalletPro Solutions,"shrink wrap pallets, 299 units",6929.29
+TXN-100170,2026-01-18,"Plant D - Ohio, US",Belt & Chain Co,"gasket set - pump housing, unit 966",2720.38
+TXN-100059,2026-06-26,"Plant C - Haiphong, VN",Global Metals Partners,"Titanium plate grade 5, batch 674",11934.77
+TXN-100049,2026-07-31,"Plant A - Stuttgart, DE",Pan-Asia Metals Co,"Aluminum billet 7075-T6, 52kg lot",55563.79
+TXN-100345,2026-07-09,"Plant D - Ohio, US",HVAC Services Group,"HVAC maintenance contract, visit 562",2710.58
+TXN-100236,2026-03-29,"Plant A - Stuttgart, DE",CustomsBroker Partners,"customs clearance fee, shipment 665",27702.97
+TXN-100253,2026-03-05,"Plant A - Stuttgart, DE",RegionalTruck Co,"air freight - expedited, ref 460",32477.17
+TXN-100022,2026-05-11,"Plant A - Stuttgart, DE",Alloy Dynamics GmbH,Cast iron ingots - batch 522,20135.97
+TXN-100314,2026-04-13,"Plant B - Queretaro, MX",Office Essentials Co,"IT peripherals - keyboards/monitors, order 449",6264.69
+TXN-100161,2025-10-21,"Plant B - Queretaro, MX",SafetyFirst Equipment,bearing replacement kit - conveyor line 625,1749.86
+TXN-100277,2025-11-13,"Plant D - Ohio, US",TransGlobal Freight,inbound trucking - interplant transfer 891,30516.75
+TXN-100192,2025-09-02,"Plant C - Haiphong, VN",FoamPack Industries,"strapping bands - PET, 274kg spool",10828.26
+TXN-100294,2026-02-14,"Plant B - Queretaro, MX",Office Essentials Co,"office supplies restock, order 990",2469.2
+TXN-100344,2025-10-11,"Plant A - Stuttgart, DE",Security Systems Inc,"office supplies restock, order 928",2933.27
+TXN-100258,2026-07-09,"Plant B - Queretaro, MX",TransGlobal Freight,"ocean freight - container FCL, lot 330",26722.71
+TXN-100309,2026-07-02,"Plant D - Ohio, US",Office Essentials Co,"office supplies restock, order 630",5209.67
+TXN-100150,2025-12-20,"Plant D - Ohio, US",SafetyFirst Equipment,"safety gloves - nitrile, case of 197",1362.11
+TXN-100131,2026-08-13,"Plant D - Ohio, US",Grainger-type Supply,"lubricant - industrial grade, 590L drum",1965.74
+TXN-100152,2025-09-08,"Plant B - Queretaro, MX",Bearings Direct,"safety gloves - nitrile, case of 310",1192.09
+TXN-100360,2025-09-22,"Plant C - Haiphong, VN",Precision Motion Systems,servo motor assembly - robotic cell 908,71179.53
+TXN-100100,2025-09-13,"Plant A - Stuttgart, DE",Bearings Direct,"drive belt V-type, 151 pack",619.33
+TXN-100088,2026-02-08,"Plant D - Ohio, US",Industrial Supply Co,"gasket set - pump housing, unit 354",2923.38
+TXN-100331,2026-04-18,"Plant B - Queretaro, MX",Local Electrician Services,"landscaping services, contract 292",2442.63
+TXN-100215,2026-02-01,"Plant D - Ohio, US",CartonWorks,"wooden export crates, qty 602",8718.84
+TXN-100122,2025-12-18,"Plant D - Ohio, US",Industrial Supply Co,"gasket set - pump housing, unit 336",4048.0
+TXN-100380,2026-04-17,"Plant B - Queretaro, MX",Precision Motion Systems,"PLC controller upgrade kit, batch 721",37413.3
+TXN-100021,2026-06-26,"Plant D - Ohio, US",Nordic Steel Supply,"Titanium plate grade 5, batch 920",61231.2
+TXN-100189,2026-01-03,"Plant D - Ohio, US",PalletPro Solutions,"foam insert packaging, batch 484",6638.02
+TXN-100072,2026-02-18,"Plant B - Queretaro, MX",ElectroParts MRO,bearing replacement kit - conveyor line 4,1014.41
+TXN-100107,2026-04-15,"Plant D - Ohio, US",Belt & Chain Co,"air filter cartridge, qty 973",1935.17
+TXN-100271,2026-08-03,"Plant D - Ohio, US",OceanLink Shipping,inbound trucking - interplant transfer 159,30927.3
+TXN-100349,2025-11-13,"Plant C - Haiphong, VN",RoboCell Integrators,"industrial robot arm - refurbished, unit 248",48080.45
+TXN-100103,2026-08-02,"Plant A - Stuttgart, DE",Precision Fasteners Inc,"drive belt V-type, 152 pack",1517.45
